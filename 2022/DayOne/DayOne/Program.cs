@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 List<Elf> elves = new List<Elf>();
 
-StreamReader reader = new StreamReader("C:\\Users\\Kai\\Desktop\\Advent of Code\\2022\\DayOne\\DayOne\\data.txt");
+StreamReader reader = new StreamReader("..\\..\\..\\data.txt");
 
 elves.Add(new Elf("1"));
 int i = 1;
