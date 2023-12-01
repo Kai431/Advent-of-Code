@@ -12,3 +12,18 @@ C:\Users\Kai\Desktop\Advent of Code\2023\Day1\Day1\obj\Debug\net6.0\refint\Day1.
 C:\Users\Kai\Desktop\Advent of Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.pdb
 C:\Users\Kai\Desktop\Advent of Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.genruntimeconfig.cache
 C:\Users\Kai\Desktop\Advent of Code\2023\Day1\Day1\obj\Debug\net6.0\ref\Day1.dll
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\bin\Debug\net6.0\Day1.exe
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\bin\Debug\net6.0\Day1.deps.json
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\bin\Debug\net6.0\Day1.runtimeconfig.json
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\bin\Debug\net6.0\Day1.dll
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\bin\Debug\net6.0\Day1.pdb
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.AssemblyInfoInputs.cache
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.AssemblyInfo.cs
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.csproj.CoreCompileInputs.cache
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.sourcelink.json
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.dll
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\refint\Day1.dll
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.pdb
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\Day1.genruntimeconfig.cache
+D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day1\Day1\obj\Debug\net6.0\ref\Day1.dll

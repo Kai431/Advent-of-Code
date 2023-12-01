@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day1\\Day1\\Day1.csproj",
+      "projectUniqueName": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day1\\Day1\\Day1.csproj",
       "projectName": "Day1",
-      "projectPath": "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day1\\Day1\\Day1.csproj",
+      "projectPath": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day1\\Day1\\Day1.csproj",
       "packagesPath": "C:\\Users\\Kai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day1\\Day1\\obj\\",
+      "outputPath": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day1\\Day1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
