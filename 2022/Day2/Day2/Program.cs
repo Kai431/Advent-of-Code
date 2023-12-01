@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Runtime.InteropServices;
 
-StreamReader reader = new StreamReader("C:\\Users\\Kai\\Desktop\\Advent of Code\\2022\\Day2\\Day2\\data.txt");
+StreamReader reader = new StreamReader("..\\..\\..\\data.txt");
 
 int points = 0;
 
