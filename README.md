@@ -29,4 +29,4 @@ While trying to get some nice looking ASCII Art for this file, ChatGPT made some
 (       )
 /'-''''-'\ 
 ```
-Mery XMas! Especially you Marc🎄
+Merry XMas! Especially you Marc🎄
