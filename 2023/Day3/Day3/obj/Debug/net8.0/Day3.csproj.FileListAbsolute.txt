@@ -13,3 +13,18 @@ D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day3\Day3\obj\Debug\net8.0\refint\Da
 D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.pdb
 D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.genruntimeconfig.cache
 D:\Desktop\AdventOfCode\Advent-of-Code\2023\Day3\Day3\obj\Debug\net8.0\ref\Day3.dll
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.AssemblyInfoInputs.cache
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.AssemblyInfo.cs
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.sourcelink.json
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.dll
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\refint\Day3.dll
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.pdb
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\bin\Debug\net8.0\Day3.exe
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\bin\Debug\net8.0\Day3.deps.json
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\bin\Debug\net8.0\Day3.runtimeconfig.json
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\bin\Debug\net8.0\Day3.dll
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\bin\Debug\net8.0\Day3.pdb
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\Day3.genruntimeconfig.cache
+C:\Users\Kai\Desktop\Advent of Code\2023\Day3\Day3\obj\Debug\net8.0\ref\Day3.dll
