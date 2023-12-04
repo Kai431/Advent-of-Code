@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FE841-BE97-4AB2-B489-04C1D3D29104}|Day3\\Day3.csproj|d:\\desktop\\adventofcode\\advent-of-code\\2023\\day3\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8FE841-BE97-4AB2-B489-04C1D3D29104}|Day3\\Day3.csproj|solutionrelative:day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8FE841-BE97-4AB2-B489-04C1D3D29104}|Day3\\Day3.csproj|d:\\desktop\\adventofcode\\advent-of-code\\2023\\day3\\day3\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C8FE841-BE97-4AB2-B489-04C1D3D29104}|Day3\\Day3.csproj|solutionrelative:day3\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.txt",
+              "DocumentMoniker": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day3\\Day3\\data.txt",
+              "RelativeDocumentMoniker": "Day3\\data.txt",
+              "ToolTip": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day3\\Day3\\data.txt",
+              "RelativeToolTip": "Day3\\data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-04T00:38:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day3\\Day3\\Program.cs",
+              "RelativeDocumentMoniker": "Day3\\Program.cs",
+              "ToolTip": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day3\\Day3\\Program.cs",
+              "RelativeToolTip": "Day3\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T00:38:31.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
