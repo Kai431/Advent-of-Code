@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day4\\Day4\\Day4.csproj": {}
+    "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day4\\Day4\\Day4.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day4\\Day4\\Day4.csproj": {
+    "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day4\\Day4\\Day4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day4\\Day4\\Day4.csproj",
+        "projectUniqueName": "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day4\\Day4\\Day4.csproj",
         "projectName": "Day4",
-        "projectPath": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day4\\Day4\\Day4.csproj",
+        "projectPath": "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day4\\Day4\\Day4.csproj",
         "packagesPath": "C:\\Users\\Kai\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\AdventOfCode\\Advent-of-Code\\2023\\Day4\\Day4\\obj\\",
+        "outputPath": "C:\\Users\\Kai\\Desktop\\Advent of Code\\2023\\Day4\\Day4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
