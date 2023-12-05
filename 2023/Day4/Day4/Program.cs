@@ -1,9 +1,11 @@
-﻿StreamReader reader = new StreamReader("..//..//..//data.txt");
+﻿
 //PartOne();
 PartTwo();
 
 void PartOne()
 {
+    StreamReader reader = new StreamReader("..//..//..//data.txt");
+
     int sum = 0;
 
     List<int> winNums = new List<int>();
@@ -46,78 +48,45 @@ void PartOne()
 
 void PartTwo()
 {
+    StreamReader reader = new StreamReader("..//..//..//data.txt");
+
     List<string> cards = new List<string>();
-    List<string> newCards = new List<string>();
 
     int offset = 0;
-
     while (!reader.EndOfStream)
     {
-        string line = reader.ReadLine();
-        cards.Add(line);
+        cards.Add(reader.ReadLine());
     }
 
-    int count = cards.Count();
-
-    while (true)
+    int[] cardCount = new int[cards.Count];
+    for (int i = 0; i < cardCount.Length; i++)
     {
-        bool cardsAdded = false;
+        cardCount[i] = 1;
+    }
 
-        for (int i = offset; i < cards.Count; i++)
+    for (int cardId = 0; cardId < cardCount.Length; cardId++)
+    {
+        string? line = cards[cardId];
+        var parts = line.Split(':');
+        var numbers = parts[1].Split('|');
+        var pickedNumbers = numbers[0]
+            .Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries)
+            .Select(int.Parse)
+            .ToArray();
+        var ourNumbers = numbers[1]
+            .Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries)
+            .Select(int.Parse)
+            .ToArray();
+
+        var matchCount = pickedNumbers.Intersect(ourNumbers).Count();
+
+        for (int i = 0; i < matchCount; i++)
         {
-            List<int> winNums = new List<int>();
-            List<int> myNums = new List<int>();
-
-            string win = cards[i].Substring(cards[i].IndexOf(':') + 2, cards[i].IndexOf("|") - cards[i].IndexOf(':') - 2);
-            string my = cards[i].Substring(cards[i].IndexOf("|") + 2);
-
-            string[] tokens = win.Split(' ');
-            tokens = tokens.Where(s => !string.IsNullOrEmpty(s)).ToArray();
-
-            foreach (string token in tokens)
-                winNums.Add(int.Parse(token));
-
-            tokens = my.Split(' ');
-            tokens = tokens.Where(s => !string.IsNullOrEmpty(s)).ToArray();
-
-            foreach (string token in tokens)
-                myNums.Add(int.Parse(token));
-
-            int matching = 0;
-
-            foreach (var winning in winNums)
-                foreach (var num in myNums)
-                    if (num == winning) matching++;
-
-            //Finding Original Card
-            int orig = cards.IndexOf(cards[i]);
-            Console.WriteLine(orig);
-
-            for (int j = 1; j <= matching; j++)
-                if (orig + j < count)
-                {
-                    newCards.Add(cards[i + j]);
-                    cardsAdded = true;
-                }   
-                else
-                    break;
-        }
-        
-        if (cardsAdded)
-        {
-            offset = cards.Count;
-            foreach (var item in newCards)
-                cards.Add(item);
-            newCards.Clear();
-        }
-        else
-        {
-            foreach (var item in cards)
-                Console.WriteLine(item);
-            Console.WriteLine($"PartTwo: {cards.Count+1}");
-            break;
+            cardCount[cardId + 1 + i] += cardCount[cardId];
         }
     }
+
+    Console.WriteLine($"PartTwo: {cardCount.Sum()}");
 }
 
 int getCardValue(int matching)
